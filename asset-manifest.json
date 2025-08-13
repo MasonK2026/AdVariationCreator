@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdVariationCreator/static/css/main.b17c4c0f.css",
+    "main.js": "/AdVariationCreator/static/js/main.ecd2a721.js",
+    "static/js/453.96453769.chunk.js": "/AdVariationCreator/static/js/453.96453769.chunk.js",
+    "index.html": "/AdVariationCreator/index.html",
+    "main.b17c4c0f.css.map": "/AdVariationCreator/static/css/main.b17c4c0f.css.map",
+    "main.ecd2a721.js.map": "/AdVariationCreator/static/js/main.ecd2a721.js.map",
+    "453.96453769.chunk.js.map": "/AdVariationCreator/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b17c4c0f.css",
+    "static/js/main.ecd2a721.js"
+  ]
+}
