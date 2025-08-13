@@ -1,5 +1,8 @@
 # Ad Variation Creator
 
+## 🚀 Live App
+[![Live App](https://img.shields.io/badge/Launch%20App-Online-green)](https://masonk2026.github.io/AdVariationCreator/)
+
 A modern, drag‑and‑drop web app to compose **ad variations** from reusable sections (Hook Lines, Intros, Bodies, Transitions, CTAs, or anything you add). Explore every combination, edit any single variation in‑browser, exclude sections per‑ad, then export as individual `.txt` files or a combined `.zip`.
 
 ---
